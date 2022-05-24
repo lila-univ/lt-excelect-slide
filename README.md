@@ -1,1 +1,3 @@
-# lp-excelect-slide
+# overview
+- LTです
+- Reveal.jsを使ったHTMLベースのスライド作成
